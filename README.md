@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sourabh-gupta-dev
+- 👋 Hi, I’m Sourabh. Engineer at Mobile Creation Tools Team.
 - 📫 Reach me at sourabh.gupta@sharechat.co
 
 <!---
